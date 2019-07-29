@@ -1,2 +1,4 @@
 # Todo-List-React-Native
 Your quintissential Todo List bought to life in a modern mobile design with react native. Functionalities include enqueing and deleting reminders as well as reviewing what you've already completed. Reminders persist over application sessions, with data stored on google firebase. 
+
+Before you start, ensure you have an android or ios emulator downloaded on your machine or the expo app on a phone of your choosing. To run, download Node JS (https://nodejs.org/en/download/). The download should include a download for npm - a node js package manager. After having downloaded these, git clone this application's repo and run npm install in command line while in the root directory of the application. Next, run npm start, where you will be prompted by the running application with multiple options for opening the Todo-List (e.g. run Todo-List on an ios or android simulator). 
